@@ -30,7 +30,7 @@ const Projects = () => {
                             </div>
 
                             <div className='flex justify-between items-center'>
-                                <a href="#" className='text-blue-400 hover:text-blue-300 transition-colors my-4'>
+                                <a href="https://github.com/HaxkerBeast/" className='text-blue-400 hover:text-blue-300 transition-colors my-4'>
                                     View Project &rarr;
                                 </a>
                             </div>
@@ -57,7 +57,7 @@ const Projects = () => {
                             </div>
 
                             <div className='flex justify-between items-center'>
-                                <a href="#" className='text-blue-400 hover:text-blue-300 transition-colors my-4'>
+                                <a href="https://github.com/HaxkerBeast/" className='text-blue-400 hover:text-blue-300 transition-colors my-4'>
                                     View Project &rarr;
                                 </a>
                             </div>
@@ -86,7 +86,7 @@ const Projects = () => {
                             </div>
 
                             <div className='flex justify-between items-center'>
-                                <a href="#" className='text-blue-400 hover:text-blue-300 transition-colors my-4'>
+                                <a href="https://github.com/HaxkerBeast/" className='text-blue-400 hover:text-blue-300 transition-colors my-4'>
                                     View Project &rarr;
                                 </a>
                             </div>
@@ -112,14 +112,11 @@ const Projects = () => {
                             </div>
 
                             <div className='flex justify-between items-center'>
-                                <a href="#" className='text-blue-400 hover:text-blue-300 transition-colors my-4'>
+                                <a href="https://github.com/HaxkerBeast/" className='text-blue-400 hover:text-blue-300 transition-colors my-4'>
                                     View Project &rarr;
                                 </a>
                             </div>
-
                         </div>
-
-
                     </div>
                 </div>
             </RevealOnScroll>
