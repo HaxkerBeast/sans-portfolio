@@ -19,9 +19,9 @@ const Home = () => {
                     </p>
 
                     <div className='flex flex-col sm:flex-row justify-center items-center gap-4 space-x-4'>
-                        <a href="#project" className='bg-blue-500 py-3 px-6 rounded font-medium transition relative overflow-hidden hover:-translate-y-0.5 hover:shadow-[0_0_15px rgba(50,130,246, 0.4)]'>View Projects</a>
+                        <a href="#projects" className='bg-blue-500 py-3 px-6 rounded font-medium transition relative overflow-hidden hover:-translate-y-0.5 hover:shadow-[0_0_15px rgba(50,130,246, 0.4)]'>View Projects</a>
 
-                        <a href="#project" className='border border-blue-500/50 text-blue-500 py-3 px-6 rounded font-medium transition-all duration-300 hover:-translate-y-0.5 hover:shadow-[0_0_15px rgba(50,130,246, 0.2)] hover:bg-blue-500/10'>Contact Me</a>
+                        <a href="#contact" className='border border-blue-500/50 text-blue-500 py-3 px-6 rounded font-medium transition-all duration-300 hover:-translate-y-0.5 hover:shadow-[0_0_15px rgba(50,130,246, 0.2)] hover:bg-blue-500/10'>Contact Me</a>
                     </div>
                 </div>
             </RevealOnScroll>
